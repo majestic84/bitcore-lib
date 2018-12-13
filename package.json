@@ -10,6 +10,12 @@
     "coverage": "gulp coverage",
     "build": "gulp"
   },
+  "contributors": [
+    {
+      "name": "Michael Rodriguez",
+      "email": "michael@zulurepublic.io"
+    }
+  ],
   "keywords": [
     "bitcoin",
     "transaction",
